@@ -35,6 +35,10 @@ Esse projeto foi desenvolvido como parte da disciplina de probabilidade e estat�
 
 4. Conecte o kernel do Juptyer ao ambiente e rode o experimento.
 
+#### Baixando os dados
+
+Acesse o site oficial do [Stack Overflow](https://insights.stackoverflow.com/survey) e baixe os dados da pesquisa de 2022. Ou faça o download do dataset pelo Kaggle [aqui](https://www.kaggle.com/datasets/dheemanthbhat/stack-overflow-annual-developer-survey-2022).
+
 ## Licença
 
 Licenciado sob [Unlicense](./LICENSE).
