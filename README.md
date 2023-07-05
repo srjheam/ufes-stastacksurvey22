@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido como parte da disciplina de probabilidade e estat√
 3. Configure o ambiente, por exemplo com conda
 
    ```sh
-   conda create --name ufes-stastacksurvey22 --file requirements.txt
+   conda env create --file env.yml
    ```
 
 4. Conecte o kernel do Juptyer ao ambiente e rode o experimento.
