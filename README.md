@@ -12,6 +12,7 @@ Esse projeto foi desenvolvido como parte da disciplina de probabilidade e estat√
 
 - Linux (sem suporte pro windows, sra. microsoft)
 - [Python 3](https://www.python.org/)
+- [Anaconda](https://www.anaconda.com/download)
 
 ### Instalando
 
